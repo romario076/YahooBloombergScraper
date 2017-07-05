@@ -1,0 +1,76 @@
+Time,Symbol,News
+2017-07-04 20:00:00.003,AAPL,Xiaomi Goes Old School to Reclaim Smartphone Crown in China
+2017-07-04 07:20:12.448,AAPL,Imagination Says Sale Talks Continuing After Losing Apple
+2017-07-04 00:02:52.074,AAPL,Apple Working on Feature to Use Face to Unlock iPhone
+2017-07-03 19:08:57.882,AAPL,Apple Tests 3-D Face Scanning to Unlock Next iPhone
+2017-06-30 14:54:03.603,AAPL,Fitbit's Smartwatch Project Hits More Hurdles Ahead of Debut
+2017-06-29 20:11:03.494,AAPL,"Apple's Cook Reaped $145 Million Last Year, Most Among S&amp;P 500 CEOs"
+2017-06-29 10:00:07.404,AAPL,This iPhone Designer Says No More Screens
+2017-06-28 23:49:17.286,AAPL,Loup's Munster Says Glasses May Be Next Big Apple Product
+2017-06-28 12:27:54.851,AAPL,Steve Jobs’s Mock Turtleneck Gets a Second Life
+2017-06-27 20:01:42.257,AAPL,How Avis-Waymo and Hertz-Apple Affect Driverless Future
+2017-06-27 17:02:29.459,AAPL,The Top Five Tech Rivals Join Forces to Shape Policy—and Fight the Government
+2017-06-27 16:03:58.220,AAPL,Pandora CEO Westergren to Step Down
+2017-06-27 13:46:11.392,AAPL,"Waymo, Apple Deals Bolster Rental Firms for Ride-Sharing Age"
+2017-06-26 20:42:50.407,AAPL,Apple Leases Cars From Hertz to Test Self-Driving Tech
+2017-06-26 18:27:23.726,AAPL,Apple Is Working With Hertz to Manage Its Self-Driving Car Fleet
+2017-07-05 16:31:04.981,AAPL,"Milling Operation Powered Up for Industrial Hemp Production -- Hemp, Inc."
+2017-07-05 13:00:03.738,AAPL,Key Mobile Enhancements Released for Visage Ease
+2017-07-05 12:00:00.196,AAPL,MicroStrategy Unveils MicroStrategy 10.8™
+2017-07-05 07:40:00.157,AAPL,Leawo Kicks off 60-Day Summer Giveaway and Specials Activity to Give out iTransfer for Free and up to 58% Specials
+2017-07-04 06:01:13.340,AAPL,Tern Plc: Statement re Heads of Terms agreed on Acquisition
+2017-06-30 16:36:28.526,AAPL,StubHub Names Olivier Ropars Vice President and Chief Marketing Officer
+2017-06-30 14:39:46.957,AAPL,DGAP-News: aap Implantate AG: Update regarding antibacterial silver coating technology - Preparations for clinical human study
+2017-06-29 16:31:52.560,AAPL,"Hemp, Inc. to Expand The Hemp University After Its 3rd Successful Symposium"
+2017-06-29 13:30:17.352,AAPL,"Glance Technologies Releases New Version of Glance Pay Which Includes Glance Dollars, Merchant Dollars and Remote Payments"
+2017-06-29 13:30:01.702,AAPL,"Glance Technologies Releases New Version of Glance Pay Which Includes Glance Dollars, Merchant Dollars and Remote Payments"
+2017-07-05 16:45:27.029,GOOG,Google's Record Fine Is Only the Start From the EU
+2017-07-05 08:01:14.124,GOOG,"Alibaba Challenges Google, Amazon With New Echo-Like Device"
+2017-07-03 17:56:57.802,GOOG,Trading Advantage's Bauer Sees Opportunity in Alphabet
+2017-07-03 17:37:53.396,GOOG,Google's DeepMind Trial With Patient Data Violated U.K. Law
+2017-07-03 10:42:26.687,GOOG,Facebook’s Small Print Might Be Next Big Antitrust Target
+2017-06-30 23:07:10.002,GOOG,Alphabet Says EU Antitrust Fine to Cut Profit by $2.74 Billion
+2017-06-29 17:29:41.123,GOOG,Diagnosing Skin Cancer With Google Images
+2017-06-29 16:25:02.060,GOOG,Europe Versus Google: View (Audio)
+2017-06-29 10:00:07.404,GOOG,This iPhone Designer Says No More Screens
+2017-06-29 09:00:16.922,GOOG,The Tiny Satellites Ushering in the New Space Revolution
+2017-06-29 00:19:26.750,GOOG,Uber Denies It Knew About Copied Data in Waymo Secrets Suit
+2017-06-28 19:09:00.220,GOOG,Google Faces Record EU Antitrust Fine (Audio)
+2017-06-28 16:03:16.917,GOOG,"Evening Briefing Europe: ECB, Google, Amazon, Macron, Sweden, Airbnb"
+2017-06-28 10:37:41.819,GOOG,EU Ruling Puts Google ‘On Parole’ for Years to Come
+2017-06-28 09:51:51.903,GOOG,Look Out Google and Facebook. Amazon’s Little Ad Business Is Growing Fast
+2017-04-05 19:44:09.983,GOOG,Google Selects comScore as Brand Safety Measurement Provider
+2017-04-05 08:00:34.556,GOOG,Google Names Broadplace as Top Performing Premier Partner Agency in UK
+2017-04-04 12:30:00.315,GOOG,Finjan Mobile Announces Release of VitalSecurity(TM) Gen 3.5 Secure Mobile Browser
+2017-04-04 12:30:00.290,GOOG,Finjan Mobile Announces Release of VitalSecurity(TM) Gen 3.5 Secure Mobile Browser
+2017-04-04 11:00:00.128,GOOG,Former Google SVP of HR and Best-Selling Author Laszlo Bock to Deliver Keynote at 20th Annual HR Technology Conference and
+2017-04-03 17:30:00.135,GOOG,Flatiron Health Announces Former Groupon and Google Executive Jason Harinstein to Join as Chief Financial Officer
+2017-04-03 10:41:00.136,GOOG,Android Overtakes Windows for First Time – StatCounter
+2017-04-01 15:03:00.141,GOOG,"LOD, Featured by Google Play US, Becomes Leader in ARPG Markets"
+2017-03-31 17:54:27.977,GOOG,Reshift Media Revolutionizes Facebook and Google Advertising for Multi-Location Businesses
+2017-03-31 13:00:00.283,GOOG,"Snapchat, Google, and Nestle Waters to Speak at Merkle’s Annual Digital Marketer Summit"
+2017-07-05 17:06:14.588,AMZN,Vantiv's Worldpay Acquisition Seen Countering Amazon Effect
+2017-07-05 16:36:09.025,AMZN,Shopping-Mall Owners Pay Up to Stay Relevant in Amazon Era
+2017-07-05 12:02:01.436,AMZN,"Amazon Pushes Alexa for Prime Deals, But Some Shoppers Resist"
+2017-07-05 08:20:08.062,AMZN,Ocado Holds Talks With Several U.S. Grocers After Amazon Deal
+2017-07-05 08:01:14.124,AMZN,"Alibaba Challenges Google, Amazon With New Echo-Like Device"
+2017-07-03 09:04:56.275,AMZN,How Retailers Can Fight Back Against Amazon
+2017-06-30 15:55:33.684,AMZN,Bill Smead: The Amazon Effect Has Limits Over Grocery Sector
+2017-06-29 10:00:07.404,AMZN,This iPhone Designer Says No More Screens
+2017-06-29 00:14:03.812,AMZN,Why Amazon Is Out to Charm Online Merchants
+2017-06-28 21:25:38.808,AMZN,The Macroeconomic Impact of the Amazon-Whole Foods Deal
+2017-06-28 19:14:14.648,AMZN,Trump Attacks the 'AmazonWashingtonPost' Over Taxes
+2017-06-28 16:53:59.385,AMZN,How Amazon-Whole Foods Deal Could Impact Blue Apron
+2017-06-28 16:03:16.917,AMZN,"Evening Briefing Europe: ECB, Google, Amazon, Macron, Sweden, Airbnb"
+2017-06-28 15:52:21.735,AMZN,Bloomberg’s Soper: Amazon Courts Merchants As Wal-Mart Poaches
+2017-06-28 15:03:10.179,AMZN,Blue Apron Slashes IPO Value as Amazon-Whole Foods Spooks Market
+2017-07-05 19:23:00.158,AMZN,Top 8 Vendors in the Data Center Market in Southeast Asia from 2017-2021: Technavio
+2017-07-05 16:05:00.160,AMZN,"Datadog Announces Integration with AWS CodeDeploy, Helping Software Developers Resolve Faulty Code Deployments"
+2017-07-05 14:17:01.950,AMZN,Enterprise Service Bus (ESB) Performance Benchmark Round X-01 Results Released
+2017-07-05 14:00:00.039,AMZN,WANdisco secures first contract in Healthcare sector
+2017-07-05 12:45:00.158,AMZN,"Amazon to Create 1,500 New Full-Time Jobs at Salt Lake City Fulfillment Center"
+2017-07-05 12:00:00.196,AMZN,MicroStrategy Unveils MicroStrategy 10.8™
+2017-07-05 08:02:10.172,AMZN,WANdisco Secures First Contract in Healthcare Sector
+2017-07-05 07:42:00.141,AMZN,"Alexa, What Are Your Prime Day Deals?"
+2017-07-04 06:00:10.810,AMZN,Tern Plc: Statement re Device Authority Update
+2017-06-30 11:00:06.743,AMZN,Exeo's Krankz Audio Sponsors Xfinity Driver Josh Williams
