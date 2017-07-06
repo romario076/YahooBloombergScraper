@@ -103,7 +103,7 @@ class ParseYahooBbrg(object):
                 url = defaulUrl.format(symbol)
                 html = urllib.urlopen(url).read()
 
-                b = BeautifulSoup(html)
+                b = BeautifulSoup(html, "lxml")
                 newsStory = b.findAll("article", {"class": "news-story"})
                 newsList = []
                 for item in newsStory:
