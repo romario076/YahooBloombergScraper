@@ -1,4 +1,4 @@
-# Scraper which retrivew stocks prices, statistics, news from Bloomberg and Yahoo.
+# Scraper which retrieves stocks prices, statistics, news from Bloomberg and Yahoo.
 
 ### Available methods:
 
